@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Chuks95
-- 👀 I’m interested in building a career in data science
-- 🌱 I’m currently gaining knowledge and skills in data science which will help me create more projects
-- 💞️ I’m looking to collaborate with every data scientist in this community to learn and grow
-- 📫 You can reach me through my email or my linkedIn url
+- 👋 Hi, I’m @ChukwudiU95
+- 👀 I am a certified data scientist with a strong engineering background committed to professional development and value creation. I have a certification in Applied Data Science from the Thayer School of Engineering ,Dartmouth College. Over the past 6 months, I have been committed to gaining analytical skills to solve business-related problems using data-driven techniques. I have applied scientific methods to business scenarios, cleaned and prepared data for statistical and machine learning modeling, worked with a variety of analytical algorithms to build models that explained data relationships and predicted potential scenarios, translated data insights into business value, and communicated results to difference audiences.
+I have strong proficiency in the use of python as a tool for data cleaning, analysis and visualization.
 
 <!---
 Chuks95/Chuks95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
